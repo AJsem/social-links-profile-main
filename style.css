@@ -106,6 +106,7 @@ button:hover {
 
   button {
     background-color: #1f1f1f;
+    border: revert;
   }
 
   button:hover {
