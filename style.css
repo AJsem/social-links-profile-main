@@ -81,6 +81,7 @@ button {
   font-weight: 600;
   color: #ffffff;
   background-color: #333333;
+  border: none;
 }
 
 button:hover {
